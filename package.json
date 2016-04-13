@@ -1,0 +1,19 @@
+{
+  "name": "scenictrack-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheEvilDev/scenictrack-client.git"
+  },
+  "author": "Mitchell Lee <mitch@evildev.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheEvilDev/scenictrack-client/issues"
+  },
+  "homepage": "https://github.com/TheEvilDev/scenictrack-client#readme"
+}
